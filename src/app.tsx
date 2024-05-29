@@ -62,7 +62,7 @@ export function App() {
         params: {
           q: noteToTranslate.content,
           target: targetLang,
-          key: 'AIzaSyAuaA0DQJlw4XBju3j7F9zLgYwgsPEv3zs'
+          key: 'SUA_CHAVE_API'
         }
       });
 
